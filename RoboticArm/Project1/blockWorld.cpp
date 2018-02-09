@@ -47,6 +47,9 @@ vector<vector<int>>blockList;
 
 int main()
 {
+	string anything;
+	cout << "Press enter to continue..." << endl;
+	cin >> anything;
 	//variables
 	vector<command> commands;
 	int blockAmount;
@@ -122,6 +125,7 @@ int main()
 		}
 		out << endl;
 	}
+
 	cout << "Program has been executed." << endl;
 
 	return 0;
