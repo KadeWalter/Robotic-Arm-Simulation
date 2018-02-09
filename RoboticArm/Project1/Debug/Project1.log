@@ -1,0 +1,23 @@
+﻿  blockWorld.cpp
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(265): warning C4101: 'listSize': unreferenced local variable
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(348): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\project1\project1\blockworld.cpp(343): warning C4101: 'listSize': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 438\Project1\Debug\Project1.exe
